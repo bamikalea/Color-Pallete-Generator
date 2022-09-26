@@ -38,7 +38,8 @@ select{
     padding: 0 .5em;
     border: 2px solid rgb(137, 156, 183);
     border-radius: 4px;
-    background: hsla(215, 28%, 17%, 0);
+    background: hsla(215, 28%, 17%, 1);
+    outline: none;
 }
 
 button{
