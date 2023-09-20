@@ -38,7 +38,7 @@ function getColors() {
             hex2 = data.colors[2].hex.value
             hex3 = data.colors[3].hex.value
             renderHtml()
-    })
+        })
 }
 
 //load colors on refresh
